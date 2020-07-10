@@ -1,0 +1,8 @@
+Manuale:
+
+
+Salva: 	salva il contenuto di Log warning in un file 
+Play:	permette il normale svolgimento delle funzioni
+Puase:	il Log analyzer continua ancora ma non viene visualizzato l'output  
+Stop:	il programma non registra i log 
+
